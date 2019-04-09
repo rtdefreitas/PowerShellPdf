@@ -1,0 +1,8 @@
+c:\users\ryan.t.defreitas\source\repos\Dev_Classes\Dev_Classes\bin\Debug\Dev_Classes.dll
+c:\users\ryan.t.defreitas\source\repos\Dev_Classes\Dev_Classes\bin\Debug\Dev_Classes.pdb
+c:\users\ryan.t.defreitas\source\repos\Dev_Classes\Dev_Classes\bin\Debug\itextsharp.dll
+c:\users\ryan.t.defreitas\source\repos\Dev_Classes\Dev_Classes\bin\Debug\itextsharp.xml
+c:\users\ryan.t.defreitas\source\repos\Dev_Classes\Dev_Classes\obj\Debug\Dev_Classes.csprojResolveAssemblyReference.cache
+c:\users\ryan.t.defreitas\source\repos\Dev_Classes\Dev_Classes\obj\Debug\Dev_Classes.csproj.CoreCompileInputs.cache
+c:\users\ryan.t.defreitas\source\repos\Dev_Classes\Dev_Classes\obj\Debug\Dev_Classes.dll
+c:\users\ryan.t.defreitas\source\repos\Dev_Classes\Dev_Classes\obj\Debug\Dev_Classes.pdb
